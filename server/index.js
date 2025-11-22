@@ -9,7 +9,7 @@ app.use(cors({
         "http://localhost:5173",
         "http://localhost:5174",
         "http://localhost:3000",
-        "http://31.97.237.246:5174/"
+        "http://31.97.237.246:5174"
 
         // add prod url
     ],
